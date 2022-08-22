@@ -1,4 +1,4 @@
-# -gendeAlanBulanProgram
+# -ÜçgendeAlanBulanProgram
 import java.util.Scanner;
 
 public class Main {
